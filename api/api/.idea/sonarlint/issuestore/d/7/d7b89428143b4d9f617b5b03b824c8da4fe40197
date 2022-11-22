@@ -1,0 +1,9 @@
+
+lsquid:UselessImportCheck
+"<Remove this unused import 'org.hibernate.annotations.Cache'.(ƒ×µ úÿÿÿÿ8å­ÔéÆ-
+nsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(»ÊÙþþÿÿÿÿ8§Í´èÆ-
+Jsquid:S1452’"&Remove usage of generic wildcard type.(ñ¼¨óøÿÿÿÿ8øÒåçÆ-
+isquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ÃÇÒ¶8úêâçÆ-
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Ì€Ò¶8¿â™èÆ-
+nsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(€É´–ùÿÿÿÿ8øÒåçÆ-
+nsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(íùÀöþÿÿÿÿ8”éÇèÆ-
